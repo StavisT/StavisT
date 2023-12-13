@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simon Stavland. I am a data scientist currently working at Cognite.
+- 👋 Hi, I’m Simon Stavland. I am a data scientist currently working at Three60Energy Digital department.
 - 👀 I’m passionate about python and solving industrial challenges through analytics.
 
 - 📫 Reach me on simon.stavland@gmail.com
